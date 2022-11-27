@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produtos>
+	<produto>
+		<id>01</id>
+		<nome>Arroz</nome>
+		<categoria>Alimentos</categoria>
+		<preco>8,00R$</preco>
+	</produto>
+
+	<produto>
+		<id>02</id>
+		<nome>Boneca Barbie</nome>
+		<categoria>Brinquedos</categoria>
+		<preco>30,00R$</preco>
+	</produto>
+
+	<produto>
+		<id>03</id>
+		<nome>Sofá</nome>
+		<categoria>Móveis</categoria>
+		<preco>2.500,00R$</preco>
+	</produto>
+</produtos>
